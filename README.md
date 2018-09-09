@@ -7,7 +7,7 @@ This is a automation framework for python language and before using it you need 
  1. Cloning the repository:
 
     ```shell
-    git clone https://github.com/lndamaral/selenium_python_tests.git
+    git clone https://github.com/TestautoDev/SeleniumPythonFramework.git
     ```
 
 2. Installing all the dependencies:
